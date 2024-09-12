@@ -1,0 +1,19 @@
+wheel
+Flask
+flask-restx
+
+gunicorn
+
+# QA tools
+flake8
+
+# Monitoring
+#newrelic
+#Testing
+pytest
+Flask-Testing
+coverage
+pymongo
+jwt
+Flask-JWT-Extended
+bcrypt
